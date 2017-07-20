@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="anagram-s" />
+        <module name="anagram-s2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anagram-s" target="1.8" />
+      <module name="anagram-s2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
